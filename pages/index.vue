@@ -22,7 +22,7 @@
         class="uppercase text-white text-lg xl:text-xl 2xl:text-2xl"
       >
         <div
-          class="flex items-center bg-[#4A4E69] p-3 rounded-lg shadow-lg hover:-translate-y-2 hover:transition-all duration-500 text-sm lg:text-2xl"
+          class="flex items-center bg-[#4A4E69] p-3 rounded-lg shadow-lg hover:-translate-y-2 hover:transition-all duration-500 text-sm lg:text-xl"
         >
           <Reload />
           Get a random cat fact
@@ -31,7 +31,7 @@
     </div>
     <div class="xl:w-1/2">
       <div
-        class="flex flex-wrap items-center justify-center gap-5 xl:flex-nowrap mt-10 lg:mt-0"
+        class="flex flex-wrap items-center justify-center gap-5 xl:flex-nowrap mt-10 xl:mt-0"
       >
         <img
           class="rounded-lg w-2/3 lg:w-2/6 xl:w-3/5 2xl:w-2/5"
